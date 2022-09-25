@@ -1,0 +1,1 @@
+"https://api.stripe.com/v1/payment_intents" -u "sk_test_51LbiaOJ6W61oxJw81351WCottlv5JDKSiMix2uUKxgmV11y79ZgkU29QzDhnHjnBA4FskPJQqjIauphu71pF89Ai00EdIYMlZh" -d "amount=500" -d "currency=gbp" -d "payment_method=pm_card_visa"

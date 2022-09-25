@@ -12,4 +12,4 @@
 - Identifying, reporting, and prioritizing bugs
 -------------------------------
 [Course Link](https://www.linkedin.com/learning/programming-foundations-software-testing-qa)
-<br>[Preview Certificate]()
+<br>[Preview Certificate](https://i.postimg.cc/tT2bcfq9/09-Certificate-Of-Completion-Programming-Foundations-Software-Testing-QA.png)
